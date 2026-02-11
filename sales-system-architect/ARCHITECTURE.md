@@ -1,0 +1,1 @@
+$path_url:https://raw.githubusercontent.com/iono-such-things/sales-system-architect/main/ARCHITECTURE.md
